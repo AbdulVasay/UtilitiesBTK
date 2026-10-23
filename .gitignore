@@ -1,0 +1,2 @@
+# Bill PDFs contain personal details (CNIC, address, account numbers) — keep them local
+*.pdf
